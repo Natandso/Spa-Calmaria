@@ -1,14 +1,14 @@
 # Spas-Calmaria
  
- Projeto  focado em construir uma Landind Page com HTML Semântico e  CSS-flex-box
+ Projeto  focado em construir uma Landind Page com HTML Semântico e  SCSS
 
  ##Aprendizados
 
- Neste projeto, tive o prazer de aplicar e aprofundar meus conhecimentos em HTML Semântico e CSS FLEXBOX, bem como desenvolver uma landing page.
+ Neste projeto, tive o prazer de aplicar e aprofundar meus conhecimentos em HTML Semântico e SCSS, bem como desenvolver uma landing page.
 
  ##Stack utilizada
 
- **Front-End:** HTML Semântico, CSS-FLEXBOX, Responsividade.
+ **Front-End:** HTML Semântico, SCSS, Responsividade.
 
  ## Autores
   [@Natan Santana (Aero)](https://github.com/Natandso)
