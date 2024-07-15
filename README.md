@@ -17,25 +17,25 @@
 
   # Cabeçalho
 
-  ![Captura de tela 2024-07-15 165709](https://github.com/user-attachments/assets/e9476fa8-90e5-4b25-b2c8-b5dc1cf52148)
+  ![Captura de tela 2024-07-15 165709](https://github.com/user-attachments/assets/ffaf47b2-b0f4-44c2-9d13-12dc7fa18573)
 
 
 
   # Sobre
 
-  ![Captura de tela 2024-07-15 165725](https://github.com/user-attachments/assets/0c814c08-c0b5-495f-be1b-01811d83dfde)
+  ![Captura de tela 2024-07-15 165725](https://github.com/user-attachments/assets/03cc9e45-a314-480f-9756-c8f41aca8a46)
 
 
 
   # Serviços
 
-  ![Captura de tela 2024-07-15 165742](https://github.com/user-attachments/assets/8164534c-ffba-433d-908b-e77557afbf8f)
+  ![Captura de tela 2024-07-15 165742](https://github.com/user-attachments/assets/08a2778e-710b-462e-9916-d4296dc6dc62)
 
 
 
   # contato
 
- ![Captura de tela 2024-07-15 165759](https://github.com/user-attachments/assets/1f962799-3949-4c1e-97ca-6449876f1961)
+  ![Captura de tela 2024-07-15 165759](https://github.com/user-attachments/assets/09a709b6-ee9f-4140-8017-97a0325edec7)
 
 
  
