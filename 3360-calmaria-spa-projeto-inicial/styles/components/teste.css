@@ -1,0 +1,9 @@
+#contatos {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 2rem;
+  background-color: red;
+}/*# sourceMappingURL=teste.css.map */
